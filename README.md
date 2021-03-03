@@ -1,1 +1,3 @@
 # Simulation_SCC-Walsh
+we present the BER performances comparison of different spreading codes for a DS-CDMA system under AWGN channel. BER of a communication system is defined as the ratio of number of erroneous bits and the total number of bits transmitted during a specific period. BER has been measured by comparing the transmitted signal with the received signal and computing the error over the total number of bits.
+For any given modulation, the BER is normally expressed in terms of Signal to Noise Ratio (SNR). Different tests were performed for DS-CDMA systems with BPSK modulation. Super Complementary Codes and Walsh Hadamard codes were tested using synchronous communication model. Their performances were compared based on the code length and number of users.
